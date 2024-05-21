@@ -1,6 +1,6 @@
 <template>
-    <div class="ms-10 ,y-10 text-4x1 font-thin text-pink-600">
-        <NuxtLink to="/"> LaTiendita</NuxtLink>
+    <div class="ms-10 ,y-10 text-4x1 font-thin text-orange-400">
+        <NuxtLink to="/"> LaTiendaFalsa</NuxtLink>
     </div>
     <slot />
     <div class="mx-10 my-10 pt-5 flex gap-5 font-bold shadow-inner">
